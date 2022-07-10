@@ -1,0 +1,18 @@
+17
+O2Tank	Fair	1:18:2012
+Regulator	Bad	7:13:2012
+O2Tank	Fair	1:9:2008
+Flashlight	Good	11:15:2008
+Mask	Excellent	2:27:2001
+Boots	Good	12:21:2007
+Fins	Excellent	1:16:2004
+Flashlight	Bad	4:13:2004
+Fins	Fair	9:15:2004
+Wetsuit	Good	12:25:2015
+BCD	Good	7:21:2011
+Boots	Bad	9:11:2007
+Wetsuit	Good	1:23:2005
+Flashlight	Fair	9:26:2014
+Boots	Excellent	8:11:2008
+Wetsuit	Fair	8:3:2013
+O2Tank	Fair	7:10:2001

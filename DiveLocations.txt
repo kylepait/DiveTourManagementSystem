@@ -1,0 +1,15 @@
+13
+BarracudaPiont	68.79:41.31	39
+MantaRay	53:37.16	17
+Yongala	-42:178.2	22
+Thistlegorm	15.31:137	44
+Kailua	87.9:-79	41
+SharkReef	-30:-102.5	22
+BlueHole	65.17:102	23
+NavyPier	52:23.79	24
+Watamula	-43:31.17	4
+Californian	29.43:137	37
+BlackBeach	-81.17:-142	26
+CaptainRoger	-88.79:-136	32
+PetCemetery	-46:-71.43	31
+SubmarineIsland	-8.31:-154	3

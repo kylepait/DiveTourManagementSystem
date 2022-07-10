@@ -1,0 +1,19 @@
+18
+james    smith    2:24:1988    2051972367    OpenWater    NAUI    N:Y:N
+john    johnson    11:24:1994    3451338757    AdvancedOpenWater    PADI    N:Y:Y
+robert    williams    4:2:1971    2592249426    AdvancedOpenWater    NAUI    Y:Y:Y
+michael    sanchez    9:16:2007    1887279035    OpenWater    SSI    N:N:Y
+william    brown    12:13:2011    4412920195    OpenWater    PADI    Y:N:Y
+david    jones    4:7:1971    5835819849    AdvancedOpenWater    PADI    Y:Y:Y
+richard    garcia    3:16:1968    6923805011    AdventureDiver    CMAS    N:N:N
+joseph    miller    11:12:1983    1380277752    OpenWater    CMAS    N:N:Y
+thomas    davis    5:4:2000    1630728544    AdvancedOpenWater    CMAS    Y:Y:Y
+charles    wong    8:11:1957    2403152106    MasterDiver    CMAS    N:N:Y
+chris    martinez    5:24:2016    7346764877    AdvancedOpenWater    NAUI    N:Y:N
+mary    hernandez    12:29:1993    6003227560    AdventureDiver    NAUI    Y:Y:N
+matthew    lopez    7:6:2019    2050641245    RescueDiver    NAUI    N:Y:N
+anthony    umana    10:25:1980    2985923059    MasterDiver    SSI    Y:Y:N
+donald    wilson    8:23:1958    1759693612    MasterDiver    SSI    Y:Y:N
+mark    anderson    5:10:2004    7369026392    OpenWater    PADI    N:N:N
+paul    thomas    10:2:2002    7567382543    RescueDiver    NAUI    Y:Y:N
+steven    taylor    4:21:1974    9979677569    MasterDiver    NAUI    N:N:N
